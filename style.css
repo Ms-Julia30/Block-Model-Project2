@@ -80,16 +80,35 @@ h3 {
 .white-box {
     padding: 30px;
 }
+
+
 .blue-box {
     background-color: rgb(38, 144, 212);
     color: white;
     display: inline-block;
-    width: 49.9%;
+    width: 49%;
+    padding-bottom: 50px;
 }
+
 
 .black-box {
     background-color:rgb(51,51,51);
     color: white;
     display: inline-block;
-    width: 49.9%;
+    width: 49%;
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.footer-paragraph {
+    display: inline-block;
+    padding: 30px 150px;
+}
+
+.link-two {
+    color: rgb(38, 144, 212);
 }
