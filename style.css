@@ -78,25 +78,36 @@ h3 {
     padding: 30px;
 }
 
-
+.parent {
+    font-size: 0;
+}
 .blue-box {
     background-color: rgb(38, 144, 212);
     color: white;
     display: inline-block;
-    width: 49%;
+    padding: 8px 12px;
+    font-size: 16px;
+    width: 50%;
     padding-bottom: 30px;
+    margin-top: 15px;
 }
 
 .Contacts {
-    margin: 40px;
+    margin-top: 15px;
+    display: block;
+    width: 340px;
+    align-items: center;
+    margin-left: 110px;
 }
 
 .black-box {
     background-color:rgb(51,51,51);
     color: white;
     display: inline-block;
-    width: 49%;
-    padding-bottom: 30px;
+    font-size: 16px;
+    width: 50%;
+    padding-top: 35.5px;
+    padding-bottom: 51.5px;
 }
 
 footer {
